@@ -1,6 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=purple&width=435&lines=Hi%2C+my+name+is+Kry!;I'm+just+a+coder;And+I'm+trying+to+be+a+developer!!!)](https://git.io/typing-svg)
 
-
+</div>
 
 
 <div id="header" align="center">
@@ -42,9 +44,14 @@
  ---
 
 ### :fire: My Stats :
+<div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrySoSad&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrySoSad&theme=radical)](https://git.io/streak-stats)   ![Kry's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrySoSad&show_icons=true&theme=radical)
+
+
+</div>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrySoSad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kry's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrySoSad&show_icons=true&theme=radical)
+</div>
