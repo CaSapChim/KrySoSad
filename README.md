@@ -32,12 +32,12 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrySoSad&theme=algolia)](https://git.io/streak-stats)   ![Kry's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrySoSad&show_icons=true&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrySoSad&theme=tokyonight )](https://git.io/streak-stats)   [![Kry's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrySoSad&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrySoSad&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrySoSad&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
